@@ -1,0 +1,10 @@
+Building DAG of jobs...
+MissingInputException in line 3 of /localdisk/home/s2005863/LectureExercises/class19/Snakefile2:
+Missing input files for rule all_kmer_stats:
+6991_paired_k27_contigs_stats.txt
+6991_paired_k29_contigs_stats.txt
+6991_paired_k21_contigs_stats.txt
+6991_paired_k31_contigs_stats.txt
+6991_paired_k19_contigs_stats.txt
+6991_paired_k23_contigs_stats.txt
+6991_paired_k25_contigs_stats.txt

@@ -1,0 +1,7 @@
+1	Homo sapiens	human	Edinburgh	1	AGGTCC	954	1	1	23	abc123	53	1
+1	Homo sapiens	human	Edinburgh	2	TTAGTT	233	1	2	93	hys596	102	2
+1	Homo sapiens	human	Edinburgh	2	TTAGTT	233	1	3	93	ueh876	153	2
+2	Columba livia	pigeon	Stirling	3	AGTTC	923	2	4	54	jsy215	85	3
+2	Columba livia	pigeon	Stirling	3	AGTTC	923	2	5	325	hev896	54	3
+3	Sciurus vulgaris	red squirrel	Aberdeen	4	TAGGC	632	3	6	165	jdu544	126	4
+3	Sciurus vulgaris	red squirrel	Aberdeen	5	GGGCA	753	3	7	430	eky668	205	5
